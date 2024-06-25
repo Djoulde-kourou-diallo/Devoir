@@ -1,0 +1,1 @@
+cout << "Bonjour" << endl;
